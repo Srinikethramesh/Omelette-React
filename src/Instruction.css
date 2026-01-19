@@ -1,0 +1,28 @@
+.instruction > h1{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: "Young-serif", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: hsl(14, 45%, 36%);
+}
+.instruction > ol{
+    margin-left: 40px;
+    margin-top: 15px;
+    font-family: "Outfit", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-right: 20px;
+}
+.instruction > ol > li{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.instruction > ol > li::marker{
+    color: hsl(14, 45%, 36%);
+}
+.instruction > hr{
+    margin: 20px;
+}

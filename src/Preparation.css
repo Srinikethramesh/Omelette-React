@@ -1,0 +1,27 @@
+.preparation{
+    background-color: hsl(330, 100%, 98%);
+    margin: 20px;
+}
+.preparation > h2{
+    margin-left: 20px;
+    margin-top: 15px;
+    padding-top: 10px;
+    font-family: "Outfit", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: hsl(332, 51%, 32%);
+}
+.preparation > ul{
+    margin-left: 50px;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    font-family: "Outfit", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.preparation > ul> li{
+    margin-top: 10px;
+}
+.preparation > ul > li::marker{
+    color: hsl(332, 51%, 32%);
+}
